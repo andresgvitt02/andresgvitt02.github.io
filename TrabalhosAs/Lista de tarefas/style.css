@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #cc9191;
+}
+
+.fundo {
+    background-color: gray;
+    color: black;
+}
+
+.mudacor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.limpar {
+    clear: both;
+}
+
+form button{
+    border: 1px solid black;
+    font-size: 14px;
+}

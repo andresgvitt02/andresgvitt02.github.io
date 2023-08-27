@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de tarefas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Lista de tarefas</h1>
+    </header>
+
+    <form class="mudacor">
+    <button type="button" onclick="mudacor()">Clique para alterar a cor</button>
+    </form>
+
+    <form>
+        <label for="tarefa">Nome da Tarefa</label>
+        <input placeholder="Adicionar nova tarefa" id="tarefa" type="text">
+        <button type="button" onclick="adicionar()">Adicionar</button>
+    </form>
+
+    <section>
+        <h2>Tarefas pendentes</h2>
+        <ol id="pendentes">
+        </ol>
+    </section>
+
+    <section>
+        <h2>Tarefas concluidas</h2>
+        <ol id="concluidas">
+        </ol>
+    </section>
+    
+    <div class="limpar"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
