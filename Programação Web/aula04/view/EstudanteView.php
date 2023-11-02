@@ -11,14 +11,17 @@
 
 <body>
 <header class="container-fluid bg-info text-white text-center p-4 ">
-        <h1 class="mb-2">Semana da Sensibilidade</h1>
+        <h1 class="mb-2">Semana da Acessibilidade</h1>
     </header>
     <div class="align-items-center d-flex container justify-content-center " style="height: 60vh;">
   
   <img src="https://nova-escola-producao.s3.amazonaws.com/MrVhaQgxJudZYVpeAZ3KAcNKymYSkHKkDnj58dvDUkEme4eaDndkWhYheEjj/crianca-com-deficiencia-tem-os-mesmos-direitos-a-educacao-getty-images.jpg" style="width: 500px;" alt="Nesta Imagem temos uma criança com síndrome de down mostrando a palma da mão cheia de tinta com diversas cores a criança está sorrindo praticando algo que gosta">
 
 </div>
-    
+<br>
+    <a href="/aula04/?controller=Estudante&acao=salvar" class="btn btn-success">Cadastrar Estudante</a>
+    <br>
+    <br>
     <table class="table">
   <thead>
     <tr>

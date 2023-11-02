@@ -1,6 +1,6 @@
 <?php
 
-require_once $_SERVER['DOCUMENT_ROOT'] . '/aula04/model/DataBase.php';
+require_once $_SERVER['DOCUMENT_ROOT'] . '/aula04/database/DataBase.php';
 
 
 class EstudanteModel
@@ -33,6 +33,5 @@ class EstudanteModel
     {
         $sql = "INSERT INTO estudantes (nome, idade) values ('$nome', '$idade')";
         $this->database->insert($sql);
-        echo "Estudante salvo com sucesso!";
     }
 }
