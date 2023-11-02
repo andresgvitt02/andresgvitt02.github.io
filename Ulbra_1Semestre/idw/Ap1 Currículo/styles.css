@@ -1,0 +1,128 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.pai{/*Alterando a div pai*/
+    width:60%;
+}
+.linkedin{
+    width: 20px;
+    height: 20px;
+}
+.limpar{ /*Classe para limpar flutuações*/
+    clear: both;
+}
+.topo{
+    background-color: gray; /*alterando a cor de fundo da classe*/
+    height: 100px; /*alterando a largura cabeçario*/
+    color: aliceblue; /* mudar cor da fonte*/
+    padding-top: 15px;/*deixando a div centralizada*/
+    font-size: 20px; /*tamanho da fonte*/
+    text-align: center; /* manter o texto no centro*/
+    padding-right: 50px; /* centralizando para esquerda*/
+    padding-left: 50px; /* centralizando o texto*/
+}
+.topo span{
+    display: inline-block;/*determinado se a caixa vai crescer conforme o tamanho das outras*/
+    padding-right: 15px;
+    margin-top: 10px;
+}
+.topo a{
+    color: white;
+    text-decoration: none; /*tirando a decoração do texto*/
+}
+.perfil{
+    height: 200px;
+    border-bottom: 2px solid;/*alterando a borda da foto*/
+}
+.dados{
+    width: 70%;
+    float: left; /*flutuar para esquerda*/
+    text-align: right;
+    padding: 60px 20px;
+}
+.dados h1{
+    font-size: 30px;/*tamanho da fonte*/
+}
+.dados p{
+    font-size: 30px;
+}
+.foto {
+    margin-top: 20px;
+    width: 30px;
+    float: left; /*flutuar para esquerda*/
+}
+.foto img{
+    margin: top 20px;
+    width: 140px;
+    height: 140px;
+    border-radius: 40%; /*arredondar a foto*/
+    border: 1px solid; 
+}
+.exper{
+    float: left;
+    width: 65%;
+    padding: 10px;
+}
+.exper h2{
+    font-size: 28px;
+    text-decoration: underline;
+}
+.exper h3, .exper p{
+    padding-left: 10px;
+    text-align: justify;
+}
+.tech{
+    float: left;
+    width: 35%;   
+    border-left: 2px solid;
+    padding: 0 10px;
+
+}
+.tech h2{
+    text-decoration: underline;
+    font-size: 28px;
+    margin-top: 15px;
+}
+.tech p{
+    float:left;
+    width: 50%;
+    
+}
+.circulo{
+    height: 16px;
+    width: 16px;
+    background-color: blueviolet;/*alterando a cor do circulo*/
+    border-radius: 50%;
+    float: left;
+    margin-right: 5px;
+}
+.tech h4{
+    margin-top: 30px;
+    text-align: justify;
+    font-weight: normal;
+}
+.tech h4{
+    font-weight: normal;
+    margin-top: 15px;
+    text-align: justify;
+}
+.educ{
+    border-top: 2px solid;
+    padding: 10px;
+}
+.educ h2{
+    text-decoration: underline;
+    font-size: 28px;
+}
+.educ h3{
+    margin-top: 15px;
+    padding-left: 10px;
+}
+.educ p{
+    padding-left: 10px;
+}
+a {
+    background-color: gray;/*alterando cor da imagem dos links*/
+}
+

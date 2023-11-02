@@ -1,0 +1,15 @@
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\bin\Debug\net7.0\tpbool.exe
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\bin\Debug\net7.0\tpbool.deps.json
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\bin\Debug\net7.0\tpbool.runtimeconfig.json
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\bin\Debug\net7.0\tpbool.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\bin\Debug\net7.0\tpbool.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\obj\Debug\net7.0\tpbool.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\obj\Debug\net7.0\tpbool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\obj\Debug\net7.0\tpbool.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\obj\Debug\net7.0\tpbool.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\obj\Debug\net7.0\tpbool.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\obj\Debug\net7.0\tpbool.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\obj\Debug\net7.0\refint\tpbool.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\obj\Debug\net7.0\tpbool.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\obj\Debug\net7.0\tpbool.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\dotnet\tpbool\obj\Debug\net7.0\ref\tpbool.dll

@@ -1,0 +1,45 @@
+body{
+    background-color:beige;
+    text-align:center
+}
+
+img{
+    margin-top: 10px;
+    border-radius: 0%;
+    border:solid 1px;
+    width: 150px;
+    height: 200px;
+    border-radius: 10%;
+    text-align: center;
+}
+a{
+text-decoration: none;
+color: black;
+}
+
+ol, ul{
+    border: 0cap;  
+    font-size: 20px;
+    width: 500px;
+    margin: 0 auto;
+}
+li{
+    margin-bottom: 10px;
+}
+
+hr{
+    background-color: black;
+    height: 1.5px;
+    width:500px;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    width: 500px;
+    margin: 40px auto;
+
+}
+
+h1, h2{
+    
+}

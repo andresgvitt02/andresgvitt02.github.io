@@ -1,0 +1,208 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    display: flex;
+    padding: 30px;
+}
+
+nav li {
+    margin: 0 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav a:hover {
+    background-color: #fff;
+    color: #333;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+section {
+    margin: 20px 0;
+    width: 100%;
+    max-width: 1000px;
+}
+
+section h2 {
+    text-align: center;
+}
+.foto img{
+    width: 300px;
+    border-radius: 10px;
+}
+.about{
+    padding: 20px;
+    display: flex;
+}
+.text{
+    padding: 20px;
+    text-align: justify;
+}
+.projeto {
+    display: flex;
+    flex-direction:column ;   
+    margin: 20px 2%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.projeto img {
+    max-width: 100%;
+    height: auto;
+    width: 280px;
+    height: 154px;
+    min-width: 290px;
+}
+
+.projeto h3 {
+    margin: 10px 0;
+}
+
+.projeto p {
+    text-align: justify;
+    max-width: 290px;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin: 10px 0;
+}
+
+form input,
+form textarea {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #fff;
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.projeto img:hover{
+    color: yellow;
+    border: 3px solid;
+}
+.projetos{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+header h1:before{
+    text-align: center;
+    content:"DESENVOLVEDOR "
+}
+
+@media screen and (max-width: 450px) {
+    header {
+    flex-direction: column;
+    align-items: center;
+    font-size: 0.9rem;
+    }
+
+    h1{
+        font-size: 2rem;
+    }
+    footer{
+    flex-direction: column;
+    }
+    header h1:before{
+        text-align: center;
+        content:"DEV "
+    }
+    .foto{
+        align-items: center;
+    }
+    }
+
+@media screen and (max-width: 800px) {
+    .about{
+        flex-direction: column;
+        justify-content: center;
+    }
+    header{
+        flex-direction: column;
+        align-items: center;
+        height: 30vh;
+        justify-content: center;
+        }
+    .projetos{
+        align-items: center;
+        justify-content: center;
+    } 
+    header h1:before{
+        text-align: center;
+        content:"DEV "
+    } 
+    .foto{
+        align-items: center;
+    }
+}
+
+
+
+
+
+
+
+
+
