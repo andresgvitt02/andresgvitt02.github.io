@@ -1,20 +1,21 @@
 public class Campeonato
 {
     public string NomeCampeonato;
-    public Equipe[] EquipesParticipantes = new Equipe[10]; // Suporta até 10 equipes.
-    private int equipeCount = 0;
+    public Equipe[] EquipesParticipantes = new Equipe[10]; // Suporta até 10 equipes \\
+    private int equipeCount = 0; // Inicia o número de jogadores da equipe em 0 \\
 
     public Campeonato(string nomeCampeonato)
     {
         NomeCampeonato = nomeCampeonato;
     }
 
+    // Adicionar equipes e a quantidade limitada de jogadores nelas \\
     public void AdicionarEquipe(Equipe equipe) 
     {
         if (equipeCount < 10)
         {
             EquipesParticipantes[equipeCount] = equipe;
-            equipeCount++;
+            equipeCount++; // Incremento \\
         }
         else
         {
@@ -22,6 +23,7 @@ public class Campeonato
         }
     }
 
+    // Iniciar a partida \\
     public void IniciarPartida(Equipe e1, Equipe e2)
     {
         if (e1 != null && e2 != null)
@@ -35,8 +37,11 @@ public class Campeonato
 
                 Console.WriteLine($"Inicia a partida entre {e1.NomeEquipe} e {e2.NomeEquipe}.");
 
+                
                 Console.WriteLine("\n");
-                foreach (var jogador in e1.Jogadores)
+
+                // Foreach para verificar se a variável (jogador) de cada equipe não é nula \\
+                foreach (var jogador in e1.Jogadores) 
                 {
                     if (jogador != null)
                     {
@@ -46,7 +51,7 @@ public class Campeonato
 
                 foreach (var jogador in e2.Jogadores)
                 {
-                    if (jogador != null)   // Verifica se a variável 'jogador' não é nula.
+                    if (jogador != null)   
                     {
                         jogador.Jogar();
                     }
@@ -60,14 +65,18 @@ public class Campeonato
         }
         else
         {
-            Console.WriteLine("Uma das equipes não está completa, assim não é possível iniciar a partida!");
+            Console.WriteLine("Uma das equipes não está completa, não é possível iniciar a partida!");
         }
     }
 
-    public void Classificacao() // Método para exibir a classificação das equipes no campeonato.
-    {
+    // Exibir a tabela de classificação do campeonato \\
+    public void Classificacao() 
+    {   
+        // Loop para para percorrer cada equipe \\
         for (int i = 0; i < equipeCount; i++)
         {
+            // Método para verificar a pontuação de cada equipe. 
+            // e assim determinar a classificação em ordem decrescente
             for (int j = i + 1; j < equipeCount; j++)
             {
                 if (EquipesParticipantes[j].PontosTotal() > EquipesParticipantes[i].PontosTotal())
@@ -80,7 +89,7 @@ public class Campeonato
         }
 
         Console.WriteLine("Classificação:");
-       
+        
         for (int i = 0; i < equipeCount; i++)
         {
             Console.WriteLine($"{i + 1}. {EquipesParticipantes[i].NomeEquipe} - Pontos: {EquipesParticipantes[i].PontosTotal()}");

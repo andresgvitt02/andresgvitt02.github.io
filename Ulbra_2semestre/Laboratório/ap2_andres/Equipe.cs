@@ -2,13 +2,14 @@ public class Equipe
 {
     public string NomeEquipe;
     public Jogador[] Jogadores = new Jogador[5];
-    private int jogadorCt = 0;
+    public int jogadorCt = 0;
 
     public Equipe(string nomeEquipe)
     {
         NomeEquipe = nomeEquipe;
     }
 
+    // Método  para contar os pontos de cada equipe \\
     public int PontosTotal()
         {
             int totalPontos = 0;
@@ -19,7 +20,8 @@ public class Equipe
             return totalPontos;
         }
 
-    public int QuantidadeJogadoresNaoNulos() // Método  para contar a quantidade de jogadores não nulos na equipe.
+    // Método  para contar a quantidade de jogadores não nulos na equipe \\
+    public int QuantidadeJogadoresNaoNulos() 
     {
         int quantidadeNaoNulos = 0;
         for (int i = 0; i < jogadorCt; i++)
@@ -32,7 +34,8 @@ public class Equipe
         return quantidadeNaoNulos;
     }
 
-    public void AdicionarJogador(Jogador jogador) // Método para adicionar um jogador à equipe.
+    // Método para adicionar um jogador à equipe.
+    public void AdicionarJogador(Jogador jogador) 
 {
     if (jogadorCt < 5)
     {

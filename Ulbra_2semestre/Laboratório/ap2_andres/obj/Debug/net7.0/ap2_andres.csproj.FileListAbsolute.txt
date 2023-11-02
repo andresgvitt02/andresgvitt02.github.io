@@ -13,3 +13,18 @@ C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\ap2_andres\obj\Debug\net7
 C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\ap2_andres\obj\Debug\net7.0\ap2_andres.pdb
 C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\ap2_andres\obj\Debug\net7.0\ap2_andres.genruntimeconfig.cache
 C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\ap2_andres\obj\Debug\net7.0\ref\ap2_andres.dll
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\bin\Debug\net7.0\ap2_andres.exe
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\bin\Debug\net7.0\ap2_andres.deps.json
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\bin\Debug\net7.0\ap2_andres.runtimeconfig.json
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\bin\Debug\net7.0\ap2_andres.dll
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\bin\Debug\net7.0\ap2_andres.pdb
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\obj\Debug\net7.0\ap2_andres.csproj.AssemblyReference.cache
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\obj\Debug\net7.0\ap2_andres.GeneratedMSBuildEditorConfig.editorconfig
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\obj\Debug\net7.0\ap2_andres.AssemblyInfoInputs.cache
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\obj\Debug\net7.0\ap2_andres.AssemblyInfo.cs
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\obj\Debug\net7.0\ap2_andres.csproj.CoreCompileInputs.cache
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\obj\Debug\net7.0\ap2_andres.dll
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\obj\Debug\net7.0\refint\ap2_andres.dll
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\obj\Debug\net7.0\ap2_andres.pdb
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\obj\Debug\net7.0\ap2_andres.genruntimeconfig.cache
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\ap2_andres\obj\Debug\net7.0\ref\ap2_andres.dll

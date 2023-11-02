@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\OneDrive\\Área de Trabalho\\Laboratório\\ap2_andres\\ap2_andres.csproj": {}
+    "C:\\IAC\\andresgvitt02.github.io\\Ulbra_2semestre\\Laboratório\\ap2_andres\\ap2_andres.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\OneDrive\\Área de Trabalho\\Laboratório\\ap2_andres\\ap2_andres.csproj": {
+    "C:\\IAC\\andresgvitt02.github.io\\Ulbra_2semestre\\Laboratório\\ap2_andres\\ap2_andres.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\OneDrive\\Área de Trabalho\\Laboratório\\ap2_andres\\ap2_andres.csproj",
+        "projectUniqueName": "C:\\IAC\\andresgvitt02.github.io\\Ulbra_2semestre\\Laboratório\\ap2_andres\\ap2_andres.csproj",
         "projectName": "ap2_andres",
-        "projectPath": "C:\\Users\\Andre\\OneDrive\\Área de Trabalho\\Laboratório\\ap2_andres\\ap2_andres.csproj",
+        "projectPath": "C:\\IAC\\andresgvitt02.github.io\\Ulbra_2semestre\\Laboratório\\ap2_andres\\ap2_andres.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\OneDrive\\Área de Trabalho\\Laboratório\\ap2_andres\\obj\\",
+        "outputPath": "C:\\IAC\\andresgvitt02.github.io\\Ulbra_2semestre\\Laboratório\\ap2_andres\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -2,13 +2,16 @@
 {
         static void Main(string[] args)
         {
-            Campeonato campeonato = new Campeonato("CampBr");
-
+            // Criar o campeonato \\
+            Campeonato campeonato = new Campeonato("Brasileirão");
+            
+            // Crias as equipes \\
             Equipe equipe1 = new Equipe("Grêmio");
             Equipe equipe2 = new Equipe("Internacional");
 
             Console.WriteLine("\n");
 
+            // Criar os jogadores \\
             Jogador jogador1 = new Jogador("Jogador 1", "Luan");
             Jogador jogador2 = new Jogador("Jogador 2", "Douglas");
             Jogador jogador3 = new Jogador("Jogador 3", "Suárez");
@@ -21,6 +24,7 @@
             Jogador jogador9 = new Jogador("Jogador 9", "Ederson");
             Jogador jogador10 = new Jogador("Jogador 10", "Cristiano");
 
+            // Adicionar os jogadores as suas equipes \\
             equipe1.AdicionarJogador(jogador1);
             equipe1.AdicionarJogador(jogador2);
             equipe1.AdicionarJogador(jogador3);
@@ -39,7 +43,8 @@
             campeonato.AdicionarEquipe(equipe2);
 
             Console.WriteLine("\n");
-
+            
+            // Iniciar a partida e mostrar a tabela de classificação \\
             campeonato.IniciarPartida(equipe1, equipe2);
 
             Console.WriteLine("\n");
