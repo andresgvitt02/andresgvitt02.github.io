@@ -1,0 +1,15 @@
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\bin\Debug\net7.0\methods.exe
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\bin\Debug\net7.0\methods.deps.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\bin\Debug\net7.0\methods.runtimeconfig.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\bin\Debug\net7.0\methods.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\bin\Debug\net7.0\methods.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\obj\Debug\net7.0\methods.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\obj\Debug\net7.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\obj\Debug\net7.0\methods.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\obj\Debug\net7.0\methods.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\obj\Debug\net7.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\obj\Debug\net7.0\methods.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\obj\Debug\net7.0\refint\methods.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\obj\Debug\net7.0\methods.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\obj\Debug\net7.0\methods.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\aula12\methods\obj\Debug\net7.0\ref\methods.dll

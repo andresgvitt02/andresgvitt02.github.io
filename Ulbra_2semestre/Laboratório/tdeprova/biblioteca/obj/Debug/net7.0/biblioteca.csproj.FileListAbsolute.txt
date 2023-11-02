@@ -1,0 +1,15 @@
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\bin\Debug\net7.0\biblioteca.exe
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\bin\Debug\net7.0\biblioteca.deps.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\bin\Debug\net7.0\biblioteca.runtimeconfig.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\bin\Debug\net7.0\biblioteca.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\bin\Debug\net7.0\biblioteca.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\obj\Debug\net7.0\biblioteca.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\obj\Debug\net7.0\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\obj\Debug\net7.0\biblioteca.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\obj\Debug\net7.0\biblioteca.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\obj\Debug\net7.0\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\obj\Debug\net7.0\biblioteca.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\obj\Debug\net7.0\refint\biblioteca.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\obj\Debug\net7.0\biblioteca.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\obj\Debug\net7.0\biblioteca.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\tdeprova\biblioteca\obj\Debug\net7.0\ref\biblioteca.dll

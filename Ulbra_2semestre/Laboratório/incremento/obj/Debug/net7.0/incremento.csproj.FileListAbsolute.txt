@@ -1,0 +1,15 @@
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\bin\Debug\net7.0\incremento.exe
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\bin\Debug\net7.0\incremento.deps.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\bin\Debug\net7.0\incremento.runtimeconfig.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\bin\Debug\net7.0\incremento.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\bin\Debug\net7.0\incremento.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\obj\Debug\net7.0\incremento.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\obj\Debug\net7.0\incremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\obj\Debug\net7.0\incremento.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\obj\Debug\net7.0\incremento.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\obj\Debug\net7.0\incremento.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\obj\Debug\net7.0\incremento.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\obj\Debug\net7.0\refint\incremento.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\obj\Debug\net7.0\incremento.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\obj\Debug\net7.0\incremento.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\incremento\obj\Debug\net7.0\ref\incremento.dll

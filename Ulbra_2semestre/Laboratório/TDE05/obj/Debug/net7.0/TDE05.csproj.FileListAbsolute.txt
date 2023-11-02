@@ -1,0 +1,15 @@
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\bin\Debug\net7.0\TDE05.exe
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\bin\Debug\net7.0\TDE05.deps.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\bin\Debug\net7.0\TDE05.runtimeconfig.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\bin\Debug\net7.0\TDE05.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\bin\Debug\net7.0\TDE05.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\obj\Debug\net7.0\TDE05.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\obj\Debug\net7.0\TDE05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\obj\Debug\net7.0\TDE05.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\obj\Debug\net7.0\TDE05.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\obj\Debug\net7.0\TDE05.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\obj\Debug\net7.0\TDE05.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\obj\Debug\net7.0\refint\TDE05.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\obj\Debug\net7.0\TDE05.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\obj\Debug\net7.0\TDE05.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\TDE05\obj\Debug\net7.0\ref\TDE05.dll

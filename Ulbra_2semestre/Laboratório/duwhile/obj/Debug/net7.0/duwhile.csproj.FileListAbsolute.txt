@@ -1,0 +1,15 @@
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\bin\Debug\net7.0\duwhile.exe
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\bin\Debug\net7.0\duwhile.deps.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\bin\Debug\net7.0\duwhile.runtimeconfig.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\bin\Debug\net7.0\duwhile.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\bin\Debug\net7.0\duwhile.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\obj\Debug\net7.0\duwhile.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\obj\Debug\net7.0\duwhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\obj\Debug\net7.0\duwhile.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\obj\Debug\net7.0\duwhile.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\obj\Debug\net7.0\duwhile.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\obj\Debug\net7.0\duwhile.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\obj\Debug\net7.0\refint\duwhile.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\obj\Debug\net7.0\duwhile.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\obj\Debug\net7.0\duwhile.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\duwhile\obj\Debug\net7.0\ref\duwhile.dll

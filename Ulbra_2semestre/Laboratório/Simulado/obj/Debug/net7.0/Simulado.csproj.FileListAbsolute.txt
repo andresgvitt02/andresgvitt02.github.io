@@ -1,0 +1,15 @@
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\bin\Debug\net7.0\Simulado.exe
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\bin\Debug\net7.0\Simulado.deps.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\bin\Debug\net7.0\Simulado.runtimeconfig.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\bin\Debug\net7.0\Simulado.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\bin\Debug\net7.0\Simulado.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\obj\Debug\net7.0\Simulado.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\obj\Debug\net7.0\Simulado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\obj\Debug\net7.0\Simulado.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\obj\Debug\net7.0\Simulado.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\obj\Debug\net7.0\Simulado.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\obj\Debug\net7.0\Simulado.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\obj\Debug\net7.0\refint\Simulado.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\obj\Debug\net7.0\Simulado.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\obj\Debug\net7.0\Simulado.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Laboratório\Simulado\obj\Debug\net7.0\ref\Simulado.dll
