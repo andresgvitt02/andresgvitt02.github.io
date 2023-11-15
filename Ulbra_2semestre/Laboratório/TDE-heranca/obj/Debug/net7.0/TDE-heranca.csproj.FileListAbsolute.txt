@@ -1,0 +1,15 @@
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\bin\Debug\net7.0\TDE-heranca.exe
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\bin\Debug\net7.0\TDE-heranca.deps.json
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\bin\Debug\net7.0\TDE-heranca.runtimeconfig.json
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\bin\Debug\net7.0\TDE-heranca.dll
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\bin\Debug\net7.0\TDE-heranca.pdb
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\obj\Debug\net7.0\TDE-heranca.csproj.AssemblyReference.cache
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\obj\Debug\net7.0\TDE-heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\obj\Debug\net7.0\TDE-heranca.AssemblyInfoInputs.cache
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\obj\Debug\net7.0\TDE-heranca.AssemblyInfo.cs
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\obj\Debug\net7.0\TDE-heranca.csproj.CoreCompileInputs.cache
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\obj\Debug\net7.0\TDE-heranca.dll
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\obj\Debug\net7.0\refint\TDE-heranca.dll
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\obj\Debug\net7.0\TDE-heranca.pdb
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\obj\Debug\net7.0\TDE-heranca.genruntimeconfig.cache
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\TDE-heranca\obj\Debug\net7.0\ref\TDE-heranca.dll

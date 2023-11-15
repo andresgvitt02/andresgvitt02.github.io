@@ -32,7 +32,7 @@ Estado char(2) Clientes_Id int references Clientes (Id));
 /* continuação TDE */
 
 CREATE TABLE Professor (
-    Id INT PRIMARY KEY,
+    Id INT NOT NULL PRIMARY KEY,
     Nome VARCHAR(50),
     Especializacao VARCHAR(50),
     Idade INT
