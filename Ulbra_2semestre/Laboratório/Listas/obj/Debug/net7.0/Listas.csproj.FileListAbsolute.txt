@@ -1,0 +1,15 @@
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\bin\Debug\net7.0\Listas.exe
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\bin\Debug\net7.0\Listas.deps.json
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\bin\Debug\net7.0\Listas.runtimeconfig.json
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\bin\Debug\net7.0\Listas.dll
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\bin\Debug\net7.0\Listas.pdb
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\obj\Debug\net7.0\Listas.csproj.AssemblyReference.cache
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\obj\Debug\net7.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\obj\Debug\net7.0\Listas.AssemblyInfoInputs.cache
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\obj\Debug\net7.0\Listas.AssemblyInfo.cs
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\obj\Debug\net7.0\Listas.csproj.CoreCompileInputs.cache
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\obj\Debug\net7.0\Listas.dll
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\obj\Debug\net7.0\refint\Listas.dll
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\obj\Debug\net7.0\Listas.pdb
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\obj\Debug\net7.0\Listas.genruntimeconfig.cache
+C:\IAC\andresgvitt02.github.io\Ulbra_2semestre\Laboratório\Listas\obj\Debug\net7.0\ref\Listas.dll
